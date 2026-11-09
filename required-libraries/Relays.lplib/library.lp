@@ -1,0 +1,11 @@
+(librepcb_library e7ee589f-1754-4331-90ad-ec0559b443db
+ (name "Relays")
+ (description "Includes Relays")
+ (keywords "")
+ (author "Samuel Du Bois")
+ (version "0.1")
+ (created 2026-04-05T22:25:32Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

@@ -1,0 +1,11 @@
+(librepcb_library 0697d2a8-11f4-4694-821b-42c525c26596
+ (name "Logos")
+ (description "Includes Logos")
+ (keywords "")
+ (author "Samuel Du Bois")
+ (version "0.1")
+ (created 2026-04-08T16:38:55Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)

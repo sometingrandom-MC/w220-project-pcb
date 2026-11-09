@@ -1,0 +1,11 @@
+(librepcb_library 0407eaec-0cdb-4a99-8292-c9854fe92e53
+ (name "Molex")
+ (description "Includes Molex Connectors")
+ (keywords "")
+ (author "Samuel Du Bois")
+ (version "0.1")
+ (created 2026-04-05T18:32:24Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
