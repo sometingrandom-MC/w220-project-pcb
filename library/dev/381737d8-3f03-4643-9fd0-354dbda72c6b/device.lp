@@ -1,0 +1,12 @@
+(librepcb_device 381737d8-3f03-4643-9fd0-354dbda72c6b
+ (name "Sam's Tech Lab Logo - Small")
+ (description "STL Logo")
+ (keywords "Samuel Du Bois")
+ (author "svg2librepcb")
+ (version "0.1")
+ (created 2026-04-11T03:31:37Z)
+ (deprecated false)
+ (generated_by "")
+ (component 27b85317-63a7-4caa-b1a6-39b8a1ab09ac)
+ (package 3a960fe2-9238-412e-b902-5adfcc41782b)
+)

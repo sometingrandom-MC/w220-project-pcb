@@ -1,0 +1,31 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,2.1.1
+; #@! TF.CreationDate,2026-07-22T16:25:42
+; #@! TF.ProjectId,Main Control Board - W220 Project,cddbaf0a-06fa-475b-80ac-8330c4d1a519,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+; #@! TA.AperFunction,MechanicalDrill
+T1C1.8542
+; #@! TA.AperFunction,MechanicalDrill
+T2C3.0
+; #@! TA.AperFunction,MechanicalDrill
+T3C3.048
+%
+G90
+G05
+M71
+T1
+X33.02Y77.625001
+X38.02Y77.625001
+T2
+X12.065Y71.12
+X12.7Y10.16
+X85.24875Y59.84875
+X86.36Y9.525
+T3
+X5.399999Y55.88
+T0
+M30
